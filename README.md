@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! 👋, I'm Seongeun Hwang</h1>
 <h3 align="center">A passionate software developer from South Korea</h3>
 
-- 🌱 I’m currently learning **javascript, Node.js, Algorithm**
+- 🌱 I’m currently learning **javascript, Node.js, Swift, Python**
 
 - 📫 How to reach me **hse322@gmail.com**
 
